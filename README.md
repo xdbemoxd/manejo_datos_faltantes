@@ -39,3 +39,5 @@ MNAR
     Desaparecido no al azar
     La probabilidad de que falten datos depende de los valores de la variable
 '''
+
+# Este concepto mostrado anteriormente, es para hacer un enfasis en cual caso podria estar el dataset, igualmente todo esta en comentarios en el codigo, si hay algun error en mi anailisi, haganme saber donde se encuentra  
